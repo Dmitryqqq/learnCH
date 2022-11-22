@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Studies\\learnCH\\Examples\\examples001_HelloConsole\\examples001_HelloConsole.csproj": {}
+    "F:\\Study\\learnCH\\examples\\learnCH\\examples001_HelloConsole\\examples001_HelloConsole.csproj": {}
   },
   "projects": {
-    "D:\\Studies\\learnCH\\Examples\\examples001_HelloConsole\\examples001_HelloConsole.csproj": {
+    "F:\\Study\\learnCH\\examples\\learnCH\\examples001_HelloConsole\\examples001_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Studies\\learnCH\\Examples\\examples001_HelloConsole\\examples001_HelloConsole.csproj",
+        "projectUniqueName": "F:\\Study\\learnCH\\examples\\learnCH\\examples001_HelloConsole\\examples001_HelloConsole.csproj",
         "projectName": "examples001_HelloConsole",
-        "projectPath": "D:\\Studies\\learnCH\\Examples\\examples001_HelloConsole\\examples001_HelloConsole.csproj",
-        "packagesPath": "C:\\Users\\Дима\\.nuget\\packages\\",
-        "outputPath": "D:\\Studies\\learnCH\\Examples\\examples001_HelloConsole\\obj\\",
+        "projectPath": "F:\\Study\\learnCH\\examples\\learnCH\\examples001_HelloConsole\\examples001_HelloConsole.csproj",
+        "packagesPath": "C:\\Users\\папа\\.nuget\\packages\\",
+        "outputPath": "F:\\Study\\learnCH\\examples\\learnCH\\examples001_HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Дима\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\папа\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
